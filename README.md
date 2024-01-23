@@ -1,4 +1,4 @@
-Seismic Activities 2023 Global
+# Seismic Activities 2023 Global
 
 Overview
 The "Seismic Activities 2023 Global" dataset offers comprehensive insights into earthquakes and seismic activities worldwide during the year 2023. 
